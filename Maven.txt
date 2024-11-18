@@ -20,6 +20,6 @@ public class HelloWorld {
         <scope>test</scope>
 </dependency>
 
-3) Compile Maven project by  mvn compile
-4) run test cases by mvn test
-5) create package/ create artifact/jar file mvn package 
+3) Compile Maven project by-  mvn compile
+4) run test cases by -mvn test
+5) create package/ create artifact/jar file- mvn package 
